@@ -121,3 +121,9 @@ For each microservice, run the following commmands in a separate terminal:
 ### Client-Server Architecture
 - The **React frontend** serves as a client to the **Python backend**.
 - Communication is handled via **REST APIs and gRPC**, ensuring flexibility and responsiveness.
+
+### Collaborators 
+- Vaishali Jadon 
+- Mansi Patel 
+- Eraj Zaidi 
+- Waneeha Samoon 
