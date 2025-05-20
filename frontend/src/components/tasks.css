@@ -1,0 +1,67 @@
+/* tasks.css */
+
+.tasks-container {
+    margin-top: 20px;
+    padding: 0 15px;
+}
+
+.tasks-card {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+.tasks-title {
+    color: #343a40;
+    text-align: center;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.tasks-table {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.tasks-table thead tr {
+    background-color: #f8f9fa;
+}
+
+.tasks-table th {
+    font-weight: bold;
+    color: #495057;
+    padding: 12px 15px;
+}
+
+.tasks-table td {
+    padding: 10px 15px;
+    vertical-align: middle;
+}
+
+.tasks-table tr {
+    border-bottom: 1px solid #eee;
+}
+
+.tasks-table tr:last-child {
+    border-bottom: none;
+}
+
+.tasks-actions {
+    display: flex;
+    gap: 8px;
+}
+
+.tasks-form-control {
+    margin: 5px 0;
+}
+
+.tasks-btn {
+    padding: 5px 10px;
+    font-size: 14px;
+}
+
+.tasks-btn-add {
+    width: 100%;
+}

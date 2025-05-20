@@ -1,0 +1,23 @@
+
+
+service qualityOfLifeMS{
+	rpc getEnv (rankreq) returns (ranking){}
+	rpc getWalk (rankreq) returns (ranking){}
+	rpc getBoth (rankreq) returns (ranking){}
+}
+
+message rankreq{
+ required string locations = 1;
+}
+
+//Commands
+message ranking{
+ required string rankings = 1;
+ required string response = 2;
+}
+
+
+// generate using this command
+// python -m grpc_tools.protoc -I. --python_out=. --grpc_python_out=. ./protos/qualityOfLifeMS.proto
+
+

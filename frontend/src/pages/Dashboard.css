@@ -1,0 +1,57 @@
+/* Dashboard.css */
+
+/* Styling for the top navigation bar */
+.dashboard-nav {
+    margin: 10px 0;
+    background-color: rgba(165, 234, 255, 0.85);
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.dashboard-nav .nav-link {
+    color: #495057;
+    font-weight: bold;
+}
+
+.dashboard-nav .nav-link.active {
+    color: #007bff;
+}
+
+/* Sidebar styling */
+.sidebar {
+    background-color: #f1f1f1;
+    border-right: 2px solid #ddd;
+    padding: 20px;
+}
+
+/* Project details styling */
+.project-details{
+    margin: 1.5rem;    
+    align-items: center;
+}
+
+.project-details h5 {
+    font-size: 18px;
+    color: #343a40;
+}
+
+/* Budget and Status styling */
+.project-details h6 {
+    cursor: pointer;
+    font-size: 16px;
+    color: #6c757d;
+}
+
+.project-details .form-control {
+    margin-top: 10px;
+}
+
+/* Container for tasks, stakeholders, posts, and ranks */
+.dashboard-container {
+    margin-top: 20px;
+}
+
+.fixed-height {
+    height: 400px; /* Adjust as needed */
+}
