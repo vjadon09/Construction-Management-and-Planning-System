@@ -1,5 +1,14 @@
 # Construction Planning & Development System
 
+<p align="center">
+  <img src="/assets/banner.png" alt="Construction Planning & Development System" width="600"/>
+</p>
+
+<h3 align="center">Distributed Cloud Construction Management System</h3>
+<p align="center">
+  FastAPI • gRPC • React • Firebase • Docker • Kubernetes
+</p>
+
 ## Installation Guide
 
 Follow these steps to set up and run the project locally.
