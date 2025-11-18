@@ -1,7 +1,7 @@
 # Construction Planning & Development System
 
 <p align="center">
-  <img src="assets/banner/banner1.png" width="100%" alt="Project Banner">
+  <img src="assets/banner/banner2.png" width="100%" alt="Project Banner">
 </p>
 
 ## Installation Guide
