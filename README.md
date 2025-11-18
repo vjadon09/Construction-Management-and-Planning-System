@@ -1,5 +1,9 @@
 # Construction Planning & Development System
 
+<p align="center">
+  <img src="assets/banner/banner1.png" width="100%" alt="Project Banner">
+</p>
+
 ## Installation Guide
 
 Follow these steps to set up and run the project locally.
